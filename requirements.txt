@@ -9,6 +9,4 @@ numpy
 keras 
 pickle
 ResNet50
-Flask==1.0.2
-Keras==2.1.5
-tensorflow==1.7.0
+tensorflow

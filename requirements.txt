@@ -9,9 +9,6 @@ numpy
 keras 
 pickle
 ResNet50
-tensorflow.keras.preprocessing 
-keras.models 
-keras.preprocessing.sequence
-tensorflow.keras.utils 
-keras.layers 
-keras.layers.merge import add
+Flask==1.0.2
+Keras==2.1.5
+tensorflow==1.7.0

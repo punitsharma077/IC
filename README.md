@@ -8,14 +8,14 @@ Teaching Computers to describe pictures.
 
 ### STEPS: 
 
-Data collection - Flickr 8k (containing8k images)
-Understanding the data
-Data Cleaning
-Loading the training set
-Data Preprocessing — Images
-Data Preprocessing — Captions
-Data Preparation using Generator Function
-Word Embeddings
-Model Architecture
-Inference
-Evaluation
+ - Data collection - Flickr 8k (containing8k images)
+ - Understanding the data
+ - Data Cleaning
+ - Loading the training set
+ - Data Preprocessing — Images
+ - Data Preprocessing — Captions
+ - Data Preparation using Generator Function
+ - Word Embeddings
+ - Model Architecture
+ - Inference
+ - Evaluation
